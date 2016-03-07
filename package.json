@@ -1,0 +1,15 @@
+{
+  "name": "bitbar-usd-brl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "infomoney-brl-usd.1m.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitbar": "^0.2.1",
+    "x-ray": "^2.0.3"
+  }
+}
