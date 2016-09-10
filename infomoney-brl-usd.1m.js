@@ -1,4 +1,4 @@
-#!/usr/bin/env /Users/douglas/.nvm/versions/node/v5.7.1/bin/node
+#!/Users/douglas/.nvm/versions/node/v6.1.0/bin/node
 // Simple Currency tracker between BRL and USD fetching the values from http://www.infomoney.com.br/mercados/cambio
 //
 // <bitbar.title>infomoney-brl-usd</bitbar.title>
